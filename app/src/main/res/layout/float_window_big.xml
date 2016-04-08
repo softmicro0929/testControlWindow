@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/big_window_layout"
+	android:layout_width="200dip"
+	android:layout_height="250dip"
+	android:background="@drawable/bg_big"
+	android:gravity="center"
+	android:orientation="vertical"
+    >
+    
+    <Button 
+        android:id="@+id/barrage_switch"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:text="打开弹幕"/>
+
+    <Button
+        android:id="@+id/pic_switch"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:text="打开图片"/>
+
+    <Button
+        android:id="@+id/video_switch"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:text="打开视频"/>
+    
+    <Button 
+        android:id="@+id/close"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:text="关闭悬浮窗"
+        />
+    
+    <Button 
+        android:id="@+id/back"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+        android:layout_gravity="center_horizontal"
+        android:text="返回"
+        />
+</LinearLayout>

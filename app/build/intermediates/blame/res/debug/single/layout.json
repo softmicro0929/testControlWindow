@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android_studio_projects\\testControlWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_video.xml",
+        "source": "D:\\android_studio_projects\\testControlWindow\\app\\src\\main\\res\\layout\\float_window_video.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\testControlWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_big.xml",
+        "source": "D:\\android_studio_projects\\testControlWindow\\app\\src\\main\\res\\layout\\float_window_big.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\testControlWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\danmu_layout.xml",
+        "source": "D:\\android_studio_projects\\testControlWindow\\app\\src\\main\\res\\layout\\danmu_layout.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\testControlWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_window_small.xml",
+        "source": "D:\\android_studio_projects\\testControlWindow\\app\\src\\main\\res\\layout\\float_window_small.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\testControlWindow\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_studio_projects\\testControlWindow\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
